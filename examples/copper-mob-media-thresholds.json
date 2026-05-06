@@ -1,0 +1,17 @@
+{
+  "repo": "copper-mob-media-field",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 1,
+    "drag": 3,
+    "ship": 177,
+    "watch": 98
+  },
+  "terms": [
+    "form pressure",
+    "sync drift",
+    "local state",
+    "conflict cost"
+  ]
+}
